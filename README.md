@@ -3,8 +3,8 @@
 ThinkPHP 5.1（LTS） —— 12载初心，你值得信赖的PHP框架
 ===============
 
-[![Total Downloads](http://poser.pugx.org/yzncms/framework/downloads)](https://packagist.org/packages/yzncms/framework)
-[![Latest Stable Version](http://poser.pugx.org/yzncms/framework/v)](https://packagist.org/packages/yzncms/framework)
+[![Total Downloads](http://poser.pugx.org/mnytool/framework/downloads)](https://packagist.org/packages/mnytool/framework)
+[![Latest Stable Version](http://poser.pugx.org/mnytool/framework/v)](https://packagist.org/packages/mnytool/framework)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D7.0-8892BF.svg)](http://www.php.net/)
 [![License](https://poser.pugx.org/topthink/framework/license)](https://packagist.org/packages/topthink/framework)
 
