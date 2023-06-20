@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "mnytool/think-installer": "^1.0",
+        
         "psr/http-message": "^1.0"
     },
     "require-dev": {
